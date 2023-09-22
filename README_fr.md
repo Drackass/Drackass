@@ -1,4 +1,4 @@
-# Salut, je m'appelle Sauzet Lény ! <img width="30" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"><a href="https://github.com/Drackass/Drackass/blob/main/README.md"><img align="right" src="https://cdn-icons-png.flaticon.com/512/197/197374.png" width="30px" /></a>
+# Salut, je m'appelle Sauzet Lény ! <a href="https://github.com/Drackass/Drackass/blob/main/README.md"><img align="right" src="https://cdn-icons-png.flaticon.com/512/197/197374.png" width="30px" /></a><img width="30" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">
 ### Concepteur/Développeur d'applications Web et Windows. 🧑‍💻
 
 <picture>
