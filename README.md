@@ -26,7 +26,7 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
 
 # 📚 knowledge
 <details>
-<summary><h2>📕 Programming languages</h2></summary>
+<summary>📕 Programming languages</summary>
 <br/>
   
 [![C#](https://img.shields.io/badge/C%23-058c0b?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=058c0b)](https://docs.microsoft.com/en-us/dotnet/csharp/)
@@ -56,7 +56,7 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
 </details>
 
 <details>
-<summary><h2>📗 Databases and Cloud Hosting</h2></summary>
+<summary>📗 Databases and Cloud Hosting</summary>
 <br/>
 
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-1d2024?style=for-the-badge&logo=github&logoColor=white&labelColor=1d2024)](https://docs.github.com/en/pages)
@@ -82,7 +82,7 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
 </details>
 
 <details>
-<summary><h2>📘 Development tools</h2></summary>
+<summary>📘 Development tools</summary>
 <br/>
 
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-662e93?style=for-the-badge&logo=visual%20studio&logoColor=white&labelColor=662e93)](https://docs.microsoft.com/en-us/visualstudio/)
@@ -104,7 +104,7 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
 </details>
 
 <details>
-<summary><h2>📙 Frameworks and libraries</h2></summary>
+<summary>📙 Frameworks and libraries</summary>
 <br/>
   
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-553e7a?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=553e7a)](https://getbootstrap.com/docs/)
@@ -126,7 +126,7 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
 </details>
 
 <details>
-<summary><h2>📓 Operating systems</h2></summary>
+<summary>📓 Operating systems</summary>
 <br/>
   
 [![Linux](https://img.shields.io/badge/Linux-ffb400?style=for-the-badge&logo=linux&logoColor=white&labelColor=ffb400)]()
@@ -136,7 +136,7 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
 </details>
 
 <details>
-<summary><h2>📒 Command line interfaces</h2></summary>
+<summary>📒 Command line interfaces</summary>
 <br/>
   
 [![Bash](https://img.shields.io/badge/Bash-3e474a?style=for-the-badge&logo=gnu%20bash&logoColor=white&labelColor=3e474a)](https://www.gnu.org/software/bash/manual/bash.html)
@@ -146,7 +146,7 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
 </details>
 
 <details>
-<summary><h2>📔 Virtualisation</h2></summary>
+<summary>📔 Virtualisation</summary>
 <br/>
 
 [![VM VirtualBox](https://img.shields.io/badge/VM%20VirtualBox-21416a?style=for-the-badge&logo=virtualbox&logoColor=white&labelColor=21416a)](https://www.virtualbox.org/wiki/Documentation)
@@ -156,7 +156,7 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
 </details>
 
 <details>
-<summary><h2>📃 Project management and organisation</h2></summary>
+<summary>📃 Project management and organisation</summary>
 <br/>
   
 [![Notion](https://img.shields.io/badge/Notion-f7f6f3?style=for-the-badge&logo=notion&logoColor=black&labelColor=f7f6f3)](https://www.notion.so/product)
@@ -178,7 +178,7 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
 <img alt="fancade banner" src="https://github.com/Drackass/Drackass/blob/main/banner-fancade.png">
 
 <details>
-<summary><h2>🕹️ A collection of my personal projects on Fancade</h2></summary>
+<summary>🕹️ A collection of my personal projects on Fancade</summary>
 <br/>
   
 <table style="width:100%">
