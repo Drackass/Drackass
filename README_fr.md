@@ -26,7 +26,7 @@ Après avoir obtenu un [**BTS SIO SLAM**](https://www.onisep.fr/ressources/unive
 
 # 📚 Connaissances
 <details>
-<summary><h2>📕 Langages de programmation</h2></summary>
+<summary>📕 Langages de programmation</summary>
 <br/>
   
 [![C#](https://img.shields.io/badge/C%23-058c0b?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=058c0b)]()
@@ -56,7 +56,7 @@ Après avoir obtenu un [**BTS SIO SLAM**](https://www.onisep.fr/ressources/unive
 </details>
 
 <details>
-<summary><h2>📗 Bases de données et hébergement cloud</h2></summary>
+<summary>📗 Bases de données et hébergement cloud</summary>
 <br/>
   
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-1d2024?style=for-the-badge&logo=github&logoColor=white&labelColor=1d2024)]()
@@ -82,7 +82,7 @@ Après avoir obtenu un [**BTS SIO SLAM**](https://www.onisep.fr/ressources/unive
 </details>
 
 <details>
-<summary><h2>📘 Outils de développement</h2></summary>
+<summary>📘 Outils de développement</summary>
 <br/>
   
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-662e93?style=for-the-badge&logo=visual%20studio&logoColor=white&labelColor=662e93)]()
@@ -104,7 +104,7 @@ Après avoir obtenu un [**BTS SIO SLAM**](https://www.onisep.fr/ressources/unive
 </details>
 
 <details>
-<summary><h2>📙 Frameworks et bibliothèques</h2></summary>
+<summary>📙 Frameworks et bibliothèques</summary>
 <br/>
 
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-553e7a?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=553e7a)]()
@@ -126,7 +126,7 @@ Après avoir obtenu un [**BTS SIO SLAM**](https://www.onisep.fr/ressources/unive
 </details>
 
 <details>
-<summary><h2>📓 Systèmes d'exploitation</h2></summary>
+<summary>📓 Systèmes d'exploitation</summary>
 <br/>
   
 [![Linux](https://img.shields.io/badge/Linux-ffb400?style=for-the-badge&logo=linux&logoColor=white&labelColor=ffb400)]()
@@ -136,7 +136,7 @@ Après avoir obtenu un [**BTS SIO SLAM**](https://www.onisep.fr/ressources/unive
 </details>
 
 <details>
-<summary><h2>📒 Interfaces de ligne de commande</h2></summary>
+<summary>📒 Interfaces de ligne de commande</summary>
 <br/>
   
 [![Bash](https://img.shields.io/badge/Bash-3e474a?style=for-the-badge&logo=gnu%20bash&logoColor=white&labelColor=3e474a)]()
@@ -146,7 +146,7 @@ Après avoir obtenu un [**BTS SIO SLAM**](https://www.onisep.fr/ressources/unive
 </details>
 
 <details>
-<summary><h2>📔 Virtualisation</h2></summary>
+<summary>📔 Virtualisation</summary>
 <br/>
   
 [![VM VirtualBox](https://img.shields.io/badge/VM%20VirtualBox-21416a?style=for-the-badge&logo=virtualbox&logoColor=white&labelColor=21416a)]()
@@ -156,7 +156,7 @@ Après avoir obtenu un [**BTS SIO SLAM**](https://www.onisep.fr/ressources/unive
 </details>
 
 <details>
-<summary><h2>📃 Gestion et organisation de projets</h2></summary>
+<summary>📃 Gestion et organisation de projets</summary>
 <br/>
   
 [![Notion](https://img.shields.io/badge/Notion-f7f6f3?style=for-the-badge&logo=notion&logoColor=black&labelColor=f7f6f3)]()
@@ -178,7 +178,7 @@ Après avoir obtenu un [**BTS SIO SLAM**](https://www.onisep.fr/ressources/unive
 <img alt="fancade banner" src="https://github.com/Drackass/Drackass/blob/main/banner-fancade.png">
 
 <details>
-<summary><h2>🕹️ Une collection de mes projets personnels sur Fancade</h2></summary>
+<summary>🕹️ Une collection de mes projets personnels sur Fancade</summary>
 <br/>
   
 <table style="width:100%">
