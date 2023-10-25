@@ -29,29 +29,33 @@ Après avoir obtenu un [**BTS SIO SLAM**](https://www.onisep.fr/ressources/unive
 <summary>📕 Langages de programmation</summary>
 <br/>
   
-[![C#](https://img.shields.io/badge/C%23-058c0b?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=058c0b)]()
+[![C#](https://img.shields.io/badge/C%23-058c0b?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=058c0b)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
-[![C++](https://img.shields.io/badge/C%2B%2B-00417b?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=00417b)]()
+[![C++](https://img.shields.io/badge/C%2B%2B-00417b?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=00417b)](https://www.cplusplus.com/doc/)
 
-[![Visual Basic](https://img.shields.io/badge/Visual%20Basic-004a85?style=for-the-badge&logo=.net&logoColor=white&labelColor=004a85)]()
+[![Visual Basic](https://img.shields.io/badge/Visual%20Basic-004a85?style=for-the-badge&logo=.net&logoColor=white&labelColor=004a85)](https://docs.microsoft.com/en-us/dotnet/visual-basic/)
 
-[![jQuery](https://img.shields.io/badge/jQuery-1064a5?style=for-the-badge&logo=jquery&logoColor=white&labelColor=1064a5)]()
+[![HTML](https://img.shields.io/badge/HTML-d84924?style=for-the-badge&logo=html5&logoColor=white&labelColor=d84924)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
-[![HTML](https://img.shields.io/badge/HTML-d84924?style=for-the-badge&logo=html5&logoColor=white&labelColor=d84924)]()
-
-[![CSS](https://img.shields.io/badge/CSS-0066b6?style=for-the-badge&logo=css3&logoColor=white&labelColor=#0066b6)]()
+[![CSS](https://img.shields.io/badge/CSS-0066b6?style=for-the-badge&logo=css3&logoColor=white&labelColor=#0066b6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 [![Sass](https://img.shields.io/badge/Sass-cd669a?style=for-the-badge&logo=sass&logoColor=white&labelColor=cd669a)](https://sass-lang.com/)
 
-[![PHP](https://img.shields.io/badge/PHP-4c5789?style=for-the-badge&logo=php&logoColor=white&labelColor=4c5789)]()
+[![PHP](https://img.shields.io/badge/PHP-4c5789?style=for-the-badge&logo=php&logoColor=white&labelColor=4c5789)](https://www.php.net/manual/en/)
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-ead41c?style=for-the-badge&logo=javascript&logoColor=black&labelColor=ead41c)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-ead41c?style=for-the-badge&logo=javascript&logoColor=black&labelColor=ead41c)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-[![Python](https://img.shields.io/badge/Python-336d9d?style=for-the-badge&logo=python&logoColor=white&labelColor=336d9d)]()
+[![Python](https://img.shields.io/badge/Python-336d9d?style=for-the-badge&logo=python&logoColor=white&labelColor=336d9d)](https://docs.python.org/3/)
 
-[![Node.js](https://img.shields.io/badge/Node.js-539e43?style=for-the-badge&logo=node.js&logoColor=white&labelColor=539e43)]()
+[![Node.js](https://img.shields.io/badge/Node.js-539e43?style=for-the-badge&logo=node.js&logoColor=white&labelColor=539e43)](https://nodejs.org/en/docs/)
 
-[![Scratch](https://img.shields.io/badge/Scratch-ec9f37?style=for-the-badge&logo=scratch&logoColor=white&labelColor=ec9f37)]()
+[![Scratch](https://img.shields.io/badge/Scratch-ec9f37?style=for-the-badge&logo=scratch&logoColor=white&labelColor=ec9f37)](https://en.scratch-wiki.info/wiki/Scratch_Wiki_Home)
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 </details>
 
@@ -59,25 +63,29 @@ Après avoir obtenu un [**BTS SIO SLAM**](https://www.onisep.fr/ressources/unive
 <summary>📗 Bases de données et hébergement cloud</summary>
 <br/>
   
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-1d2024?style=for-the-badge&logo=github&logoColor=white&labelColor=1d2024)]()
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-1d2024?style=for-the-badge&logo=github&logoColor=white&labelColor=1d2024)](https://docs.github.com/en/pages)
 
-[![MySQL](https://img.shields.io/badge/MySQL-d88700?style=for-the-badge&logo=mysql&logoColor=white&labelColor=d88700)]()
+[![MySQL](https://img.shields.io/badge/MySQL-d88700?style=for-the-badge&logo=mysql&logoColor=white&labelColor=d88700)](https://dev.mysql.com/doc/)
 
-[![SQL Server](https://img.shields.io/badge/SQL%20Server-cf0513?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white&labelColor=cf0513)]()
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-cf0513?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white&labelColor=cf0513)](https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms)
 
-[![MariaDB](https://img.shields.io/badge/MariaDB-c0765a?style=for-the-badge&logo=mariadb&logoColor=white&labelColor=c0765a)]()
+[![MariaDB](https://img.shields.io/badge/MariaDB-c0765a?style=for-the-badge&logo=mariadb&logoColor=white&labelColor=c0765a)](https://mariadb.com/docs/)
 
-[![Oracle](https://img.shields.io/badge/Oracle-be4331?style=for-the-badge&logo=oracle&logoColor=white&labelColor=be4331)]()
+[![Oracle](https://img.shields.io/badge/Oracle-be4331?style=for-the-badge&logo=oracle&logoColor=white&labelColor=be4331)](https://docs.oracle.com/en/)
 
-[![SQLite](https://img.shields.io/badge/SQLite-1398e0?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=1398e0)]()
+[![SQLite](https://img.shields.io/badge/SQLite-1398e0?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=1398e0)](https://www.sqlite.org/docs.html)
 
-[![PhpMyAdmin](https://img.shields.io/badge/PhpMyAdmin-ff9800?style=for-the-badge&logo=phpmyadmin&logoColor=white&labelColor=ff9800)]()
+[![PhpMyAdmin](https://img.shields.io/badge/PhpMyAdmin-ff9800?style=for-the-badge&logo=phpmyadmin&logoColor=white&labelColor=ff9800)](https://docs.phpmyadmin.net/en/)
 
-[![HeidiSQL](https://img.shields.io/badge/HeidiSQL-328400?style=for-the-badge&labelColor=328400)]()
+[![HeidiSQL](https://img.shields.io/badge/HeidiSQL-328400?style=for-the-badge&labelColor=328400)](https://www.heidisql.com/help.php)
 
-[![AJAX](https://img.shields.io/badge/AJAX-308bc9?style=for-the-badge&logo=ajax&logoColor=white)]()
+[![AJAX](https://img.shields.io/badge/AJAX-308bc9?style=for-the-badge&logo=ajax&logoColor=white)](https://api.jquery.com/category/ajax/)
 
-[![SQL](https://img.shields.io/badge/SQL-3199da?style=for-the-badge&logoColor=white&labelColor=3199da)]()
+[![SQL](https://img.shields.io/badge/SQL-3199da?style=for-the-badge&logoColor=white&labelColor=3199da)](https://www.w3schools.com/sql/)
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </details>
 
@@ -85,21 +93,29 @@ Après avoir obtenu un [**BTS SIO SLAM**](https://www.onisep.fr/ressources/unive
 <summary>📘 Outils de développement</summary>
 <br/>
   
-[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-662e93?style=for-the-badge&logo=visual%20studio&logoColor=white&labelColor=662e93)]()
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-662e93?style=for-the-badge&logo=visual%20studio&logoColor=white&labelColor=662e93)](https://docs.microsoft.com/en-us/visualstudio/)
 
-[![VS Code](https://img.shields.io/badge/VS%20Code-038fd6?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=038fd6)]()
+[![VS Code](https://img.shields.io/badge/VS%20Code-038fd6?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=038fd6)](https://code.visualstudio.com/docs/)
 
-[![NetBeans](https://img.shields.io/badge/NetBeans-1a65bc?style=for-the-badge&logo=apache%20netbeans%20ide&logoColor=white&labelColor=1a65bc)]()
+[![NetBeans](https://img.shields.io/badge/NetBeans-1a65bc?style=for-the-badge&logo=apache%20netbeans%20ide&logoColor=white&labelColor=1a65bc)](https://netbeans.apache.org/kb/docs/)
 
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-f48024?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=f48024)]()
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-f48024?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=f48024)](https://stackoverflow.com/)
 
-[![Chat GPT](https://img.shields.io/badge/Chat%20GPT-15997a?style=for-the-badge&logo=openai&logoColor=white&labelColor=15997a)]()
+[![Chat GPT](https://img.shields.io/badge/Chat%20GPT-15997a?style=for-the-badge&logo=openai&logoColor=white&labelColor=15997a)](https://platform.openai.com/docs/)
 
-[![Fancade](https://img.shields.io/badge/Fancade-%23edaf00?style=for-the-badge&logo=Square&logoColor=white&labelColor=edaf00)]()
+[![Fancade](https://img.shields.io/badge/Fancade-%23edaf00?style=for-the-badge&logo=Square&logoColor=white&labelColor=edaf00)](https://www.fancade.com/)
 
-[![UwAmp](https://img.shields.io/badge/UwAmp-2e2fad?style=for-the-badge&logo=apache&logoColor=white&labelColor=2e2fad)]()
+[![UwAmp](https://img.shields.io/badge/UwAmp-2e2fad?style=for-the-badge&logo=apache&logoColor=white&labelColor=2e2fad)](https://www.uwamp.com/en/)
 
-[![Wamp](https://img.shields.io/badge/Wamp-f70094?style=for-the-badge&logo=webflow&logoColor=white&labelColor=f70094)]()
+[![Wamp](https://img.shields.io/badge/Wamp-f70094?style=for-the-badge&logo=webflow&logoColor=white&labelColor=f70094)](https://www.wampserver.com/en/)
+
+![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
+
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </details>
 
@@ -107,31 +123,47 @@ Après avoir obtenu un [**BTS SIO SLAM**](https://www.onisep.fr/ressources/unive
 <summary>📙 Frameworks et bibliothèques</summary>
 <br/>
 
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-553e7a?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=553e7a)]()
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-553e7a?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=553e7a)](https://getbootstrap.com/docs/)
 
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-01b7d6?style=for-the-badge&logo=tailwind%20css&logoColor=white&labelColor=01b7d6)]()
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-01b7d6?style=for-the-badge&logo=tailwind%20css&logoColor=white&labelColor=01b7d6)](https://tailwindcss.com/docs/)
 
-[![.NET Framework](https://img.shields.io/badge/.NET%20Framework-5027d5?style=for-the-badge&logo=.net&logoColor=white&labelColor=5027d5)]()
+[![.NET Framework](https://img.shields.io/badge/.NET%20Framework-5027d5?style=for-the-badge&logo=.net&logoColor=white&labelColor=5027d5)](https://docs.microsoft.com/en-us/dotnet/framework/)
 
-[![Arduino](https://img.shields.io/badge/Arduino-00979c?style=for-the-badge&logo=arduino&logoColor=white&labelColor=00979c)]()
+[![Arduino](https://img.shields.io/badge/Arduino-00979c?style=for-the-badge&logo=arduino&logoColor=white&labelColor=00979c)](https://www.arduino.cc/reference/en/)
 
-[![WordPress](https://img.shields.io/badge/WordPress-00769c?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=00769c)]()
+[![WordPress](https://img.shields.io/badge/WordPress-00769c?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=00769c)](https://wordpress.org/support/)
 
-[![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white&labelColor=4353FF)]()
+[![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white&labelColor=4353FF)](https://university.webflow.com/)
 
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=61DAFB)](https://reactjs.org/docs/)
 
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000)](https://nextjs.org/docs/)
 
+![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
+
+[![jQuery](https://img.shields.io/badge/jQuery-1064a5?style=for-the-badge&logo=jquery&logoColor=white&labelColor=1064a5)](https://api.jquery.com/)
+
+![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
 </details>
 
 <details>
-<summary>📓 Systèmes d'exploitation</summary>
+<summary>📓 OS & distribution</summary>
 <br/>
   
 [![Linux](https://img.shields.io/badge/Linux-ffb400?style=for-the-badge&logo=linux&logoColor=white&labelColor=ffb400)]()
 
 [![Windows](https://img.shields.io/badge/Windows-00afef?style=for-the-badge&logo=windows&logoColor=white&labelColor=00afef)]()
+
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 </details>
 
