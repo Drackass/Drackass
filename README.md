@@ -35,8 +35,6 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
 
 [![Visual Basic](https://img.shields.io/badge/Visual%20Basic-004a85?style=for-the-badge&logo=.net&logoColor=white&labelColor=004a85)](https://docs.microsoft.com/en-us/dotnet/visual-basic/)
 
-[![jQuery](https://img.shields.io/badge/jQuery-1064a5?style=for-the-badge&logo=jquery&logoColor=white&labelColor=1064a5)](https://api.jquery.com/)
-
 [![HTML](https://img.shields.io/badge/HTML-d84924?style=for-the-badge&logo=html5&logoColor=white&labelColor=d84924)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 [![CSS](https://img.shields.io/badge/CSS-0066b6?style=for-the-badge&logo=css3&logoColor=white&labelColor=#0066b6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -79,6 +77,8 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
 
 [![SQL](https://img.shields.io/badge/SQL-3199da?style=for-the-badge&logoColor=white&labelColor=3199da)](https://www.w3schools.com/sql/)
 
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
 </details>
 
 <details>
@@ -101,6 +101,8 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
 
 [![Wamp](https://img.shields.io/badge/Wamp-f70094?style=for-the-badge&logo=webflow&logoColor=white&labelColor=f70094)](https://www.wampserver.com/en/)
 
+![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
+
 </details>
 
 <details>
@@ -122,6 +124,10 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=61DAFB)](https://reactjs.org/docs/)
 
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000)](https://nextjs.org/docs/)
+
+![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
+
+[![jQuery](https://img.shields.io/badge/jQuery-1064a5?style=for-the-badge&logo=jquery&logoColor=white&labelColor=1064a5)](https://api.jquery.com/)
 
 </details>
 
