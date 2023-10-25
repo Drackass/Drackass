@@ -51,6 +51,12 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
 
 [![Scratch](https://img.shields.io/badge/Scratch-ec9f37?style=for-the-badge&logo=scratch&logoColor=white&labelColor=ec9f37)](https://en.scratch-wiki.info/wiki/Scratch_Wiki_Home)
 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
 </details>
 
 <details>
@@ -79,6 +85,8 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 </details>
 
 <details>
@@ -102,6 +110,12 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
 [![Wamp](https://img.shields.io/badge/Wamp-f70094?style=for-the-badge&logo=webflow&logoColor=white&labelColor=f70094)](https://www.wampserver.com/en/)
 
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
+
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </details>
 
@@ -129,15 +143,27 @@ After graduating with a [**BTS SIO SLAM**](https://www.onisep.fr/ressources/univ
 
 [![jQuery](https://img.shields.io/badge/jQuery-1064a5?style=for-the-badge&logo=jquery&logoColor=white&labelColor=1064a5)](https://api.jquery.com/)
 
+![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
 </details>
 
 <details>
-<summary>📓 Operating systems</summary>
+<summary>📓 OS & distribution</summary>
 <br/>
   
 [![Linux](https://img.shields.io/badge/Linux-ffb400?style=for-the-badge&logo=linux&logoColor=white&labelColor=ffb400)]()
 
 [![Windows](https://img.shields.io/badge/Windows-00afef?style=for-the-badge&logo=windows&logoColor=white&labelColor=00afef)]()
+
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 </details>
 
